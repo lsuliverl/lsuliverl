@@ -25,5 +25,12 @@
     <div style="text-align: left;">  </div> 
     </div>
     <div>
-        <p>생활코딩 보면서 한 거</p>
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎯 project </h2> <br> 
+        <ul>
+            <li>kicCampus에서 배운 자료
+                <ul>
+                    <li><a href="https://github.com/lsuliverl/kicCampus"/></li>
+                </ul>
+            </li>
+        </ul>
     </div>
