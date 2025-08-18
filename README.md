@@ -29,7 +29,7 @@
         <ul>
             <li>kicCampus에서 배운 자료
                 <ul>
-                    <li><a href="https://github.com/lsuliverl/kicCampus"/></li>
+                    <li><a href="https://github.com/lsuliverl/kicCampus">kicCampus</a></li>
                 </ul>
             </li>
         </ul>
