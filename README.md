@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=d9cafe&height=180&text=Hello%20World👋🏻%20I'm%20Suhyun&animation=&fontColor=ffffff&fontSize=40" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 코드와 함께 성장하는 프론트엔드 개발자 김수현입니다. </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙇🏻 코드와 함께 성장하는 프론트엔드 개발자 김수현입니다. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  <li> 꾸준히 성장하는 프론트엔드 개발자입니다.</li> <li> 논리적 사고와 문제 해결을 좋아합니다.</li> <li> 프로젝트를 통해 실제 사용자 경험을 개선하는 것을 즐깁니다.</li> <li> 협업과 커뮤니케이션에도 자신이 있습니다.</li> <li> 새로운 기술을 배우는 것을 멈추지 않습니다.   </div> 
     </div>
     <div style="text-align: left;">
