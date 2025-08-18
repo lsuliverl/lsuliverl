@@ -24,4 +24,6 @@
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
-    
+    <div>
+        <p>생활코딩 보면서 한 거</p>
+    </div>
