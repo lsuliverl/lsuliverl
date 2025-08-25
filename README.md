@@ -110,4 +110,10 @@
     </li>
   </ul>
 </div>
+<div>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📚 Study</h2><br> 
+  <ul>
+        <li><a href="https://github.com/lsuliverl/study-day01-html-basic">1일차 공부</a></li>
+  </ul>
+</div>
 
